@@ -1,4 +1,4 @@
-# Machine-Learning
+# Classifiers
 ML Algoritnms and Classifiers
 Basics of Machine learning classifiers. 
 Different type of ML classifiers Supervised and Unsupervised.
@@ -6,4 +6,5 @@ Different type of ML classifiers Supervised and Unsupervised.
 # Exploratory Data analysis
 Data analysis of various readily avaliable data sets.
 
-
+# CV
+Computer Vision Allgorithms
